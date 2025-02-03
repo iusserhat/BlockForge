@@ -1,0 +1,137 @@
+{
+    "nav": {
+        "home": "Ana Sayfa",
+        "about": "Hakkımızda",
+        "services": "Hizmetler",
+        "contact": "İletişim"
+    },
+    "hero": {
+        "title": "Web3 & Blockchain yolculuğuna birlikte başlayalım!",
+        "subtitle": "Merkeziyetsiz inovasyonun geleceğini Web3 ve blockchain yazılım eğitimleriyle keşfedin",
+        "cta": "Başlamak için İletişime Geçin"
+    },
+    "services": {
+        "title": "Hizmetlerimiz",
+        "education": {
+            "title": "Eğitim",
+            "description": "Merkeziyetsiz geleceğe hazırlanmanız için Web3 bilgi ve becerileriyle sizi güçlendiriyoruz."
+        },
+        "consulting": {
+            "title": "Danışmanlık",
+            "description": "Şirketinizin Web3'e geçişini uzman rehberliğiyle kolaylaştırıyoruz."
+        },
+        "development": {
+            "title": "Geliştirme",
+            "description": "Yenilikçi blockchain ve Web3 yazılım çözümleri sunuyoruz."
+        },
+        "token": {
+            "title": "Token Geliştirme",
+            "description": "ERC-20, ERC-721 (NFT) ve özel token geliştirme hizmetleri sunuyoruz."
+        },
+        "security": {
+            "title": "Güvenlik Denetimi",
+            "description": "Akıllı kontratlarınız için kapsamlı güvenlik denetimi ve kod analizi sağlıyoruz."
+        },
+        "defi": {
+            "title": "DeFi Çözümleri",
+            "description": "Merkeziyetsiz finans protokolleri ve DeFi uygulamaları geliştiriyoruz."
+        },
+        "dao": {
+            "title": "DAO Yapılandırma",
+            "description": "Merkeziyetsiz otonom organizasyon kurulum ve yönetim desteği sağlıyoruz."
+        },
+        "infrastructure": {
+            "title": "Blockchain Altyapı",
+            "description": "Özel blockchain ağları ve node altyapısı kurulum hizmetleri sunuyoruz."
+        },
+        "metaverse": {
+            "title": "Metaverse Geliştirme",
+            "description": "Web3 tabanlı metaverse projeleri ve sanal varlık platformları geliştiriyoruz."
+        },
+        "crosschain": {
+            "title": "Cross-chain Çözümler",
+            "description": "Farklı blokzincirler arası köprü ve entegrasyon çözümleri sunuyoruz."
+        }
+    },
+    "tech": {
+        "title": "Teknoloji Altyapımız",
+        "description": "Blockchain ve Web2-Web3 inovasyonları için optimize edilmiş çoklu programlama dilleri ve araçlardan oluşan çeşitli bir altyapı kullanıyoruz.",
+        "blockchain": {
+            "title": "Blockchain Teknolojileri",
+            "ethereum": "Akıllı kontrat geliştirme ve DApp entegrasyonu",
+            "solana": "Yüksek performanslı blockchain uygulamaları",
+            "polkadot": "Cross-chain iletişim ve parachain geliştirme"
+        },
+        "languages": {
+            "title": "Programlama Dilleri",
+            "solidity": "Akıllı kontrat geliştirme",
+            "rust": "Güvenli ve performanslı blockchain geliştirme",
+            "javascript": "Web3 frontend ve DApp geliştirme"
+        },
+        "tools": {
+            "title": "Geliştirme Araçları",
+            "hardhat": "Ethereum geliştirme ortamı",
+            "truffle": "Akıllı kontrat test ve dağıtım",
+            "web3": "Blockchain etkileşim kütüphanesi"
+        }
+    },
+    "faq": {
+        "title": "Sıkça Sorulan Sorular",
+        "q1": {
+            "question": "Web3 nedir?",
+            "answer": "Web3, internetin merkeziyetsiz blockchain teknolojisi üzerine kurulu yeni neslidir. Kullanıcı sahipliğini, dijital varlıkları ve geleneksel aracılar olmadan eşler arası etkileşimleri vurgular."
+        },
+        "q2": {
+            "question": "Web3'ün işletmemize faydası nedir?",
+            "answer": "Web3'e geçiş, işletmenize şeffaflık, güvenlik ve merkeziyetsiz çerçeveler aracılığıyla gelişmiş kullanıcı güveni sağlayabilir."
+        },
+        "q3": {
+            "question": "Blockchain geliştirme süreciniz nasıl işliyor?",
+            "answer": "Blockchain geliştirme sürecimiz dört ana aşamadan oluşur: İhtiyaç analizi ve planlama, teknik tasarım ve mimari kararlar, geliştirme ve test süreci, ve son olarak dağıtım ve bakım aşaması. Her aşamada müşterilerimizle yakın iletişim kurarak, projenin hedeflerine uygun şekilde ilerlemesini sağlıyoruz. Özellikle güvenlik ve ölçeklenebilirlik konularına özel önem veriyoruz."
+        },
+        "q4": {
+            "question": "NFT projeleri için hangi hizmetleri sunuyorsunuz?",
+            "answer": "NFT projeleriniz için uçtan uca çözümler sunuyoruz. Bu hizmetler arasında akıllı kontrat geliştirme, metadata yönetimi, IPFS entegrasyonu, minting websitesi oluşturma, marketplace entegrasyonu ve teknik danışmanlık bulunmaktadır. Ayrıca, NFT'lerinizin ikincil piyasa stratejilerini planlamanıza ve royalty sistemlerini kurmanıza yardımcı oluyoruz. Projelerinizde OpenSea, Rarible gibi popüler NFT marketplaceleri ile entegrasyon sağlıyoruz."
+        },
+        "q5": {
+            "question": "Akıllı kontrat güvenlik denetimi neleri kapsıyor?",
+            "answer": "Akıllı kontrat güvenlik denetimimiz kapsamlı bir süreçtir. Manuel kod incelemesi, otomatik güvenlik taramaları, gas optimizasyonu, bilinen güvenlik açıklarına karşı testler ve stress testleri gerçekleştiriyoruz. Özellikle re-entrancy saldırıları, integer overflow/underflow, front-running ve diğer yaygın güvenlik sorunlarına karşı kontratlarınızı test ediyoruz. Denetim sonucunda detaylı bir rapor sunuyor ve tespit edilen sorunların çözümü için öneriler getiriyoruz."
+        }
+    },
+    "about": {
+        "title": "Hakkımızda",
+        "highlight": "BlockForgeSolutions olarak, Web3 dünyasında yenilikçi çözümler sunuyoruz.",
+        "description": "2020'den beri blockchain teknolojileri alanında öncü projeler geliştiriyor, işletmelerin ve bireylerin dijital dönüşümüne rehberlik ediyoruz.",
+        "stats": {
+            "projects": "Başarılı Proje",
+            "clients": "Mutlu Müşteri",
+            "experience": "Yıllık Deneyim"
+        }
+    },
+    "contact": {
+        "title": "İletişime Geçin",
+        "name": "Adınız",
+        "email": "E-posta Adresiniz",
+        "message": "Projenizi anlatın...",
+        "submit": "Gönder"
+    },
+    "footer": {
+        "description": "Merkeziyetsiz dünyada başarılı olmanız için kapsamlı yazılım eğitimi ve yenilikçi projeler!",
+        "legal": {
+            "title": "Yasal",
+            "terms": "Kullanım Koşulları",
+            "privacy": "Gizlilik Politikası"
+        },
+        "contact": {
+            "title": "İletişim",
+            "email": "info@blockforgesolutions.com"
+        },
+        "copyright": "© 2024 BlockForgeSolutions. Tüm hakları saklıdır.",
+        "blockforge": {
+            "title": "BLOCKFORGE",
+            "about": "Hakkımızda",
+            "services": "Hizmetler",
+            "contact": "İletişim"
+        }
+    }
+} 

@@ -1,0 +1,137 @@
+{
+    "nav": {
+        "home": "Home",
+        "about": "About",
+        "services": "Services",
+        "contact": "Contact"
+    },
+    "hero": {
+        "title": "Let's start the Web3 & Blockchain journey together!",
+        "subtitle": "Discover the future of decentralized innovation with Web3 and blockchain software training",
+        "cta": "Contact Us to Get Started"
+    },
+    "services": {
+        "title": "Our Services",
+        "education": {
+            "title": "Education",
+            "description": "We empower you with Web3 knowledge and skills to prepare for the decentralized future."
+        },
+        "consulting": {
+            "title": "Consulting",
+            "description": "We facilitate your company's transition to Web3 with expert guidance."
+        },
+        "development": {
+            "title": "Development",
+            "description": "We provide innovative blockchain and Web3 software solutions."
+        },
+        "token": {
+            "title": "Token Development",
+            "description": "We offer ERC-20, ERC-721 (NFT) and custom token development services."
+        },
+        "security": {
+            "title": "Security Audit",
+            "description": "We provide comprehensive security audits and code analysis for your smart contracts."
+        },
+        "defi": {
+            "title": "DeFi Solutions",
+            "description": "We develop decentralized finance protocols and DeFi applications."
+        },
+        "dao": {
+            "title": "DAO Setup",
+            "description": "We provide decentralized autonomous organization setup and management support."
+        },
+        "infrastructure": {
+            "title": "Blockchain Infrastructure",
+            "description": "We offer private blockchain networks and node infrastructure setup services."
+        },
+        "metaverse": {
+            "title": "Metaverse Development",
+            "description": "We develop Web3-based metaverse projects and virtual asset platforms."
+        },
+        "crosschain": {
+            "title": "Cross-chain Solutions",
+            "description": "We provide bridge and integration solutions between different blockchains."
+        }
+    },
+    "tech": {
+        "title": "Our Technology Stack",
+        "description": "We use a diverse infrastructure consisting of multiple programming languages and tools optimized for blockchain and Web2-Web3 innovations.",
+        "blockchain": {
+            "title": "Blockchain Technologies",
+            "ethereum": "Smart contract development and DApp integration",
+            "solana": "High-performance blockchain applications",
+            "polkadot": "Cross-chain communication and parachain development"
+        },
+        "languages": {
+            "title": "Programming Languages",
+            "solidity": "Smart contract development",
+            "rust": "Secure and performant blockchain development",
+            "javascript": "Web3 frontend and DApp development"
+        },
+        "tools": {
+            "title": "Development Tools",
+            "hardhat": "Ethereum development environment",
+            "truffle": "Smart contract testing and deployment",
+            "web3": "Blockchain interaction library"
+        }
+    },
+    "faq": {
+        "title": "Frequently Asked Questions",
+        "q1": {
+            "question": "What is Web3?",
+            "answer": "Web3 is the next generation of the internet built on decentralized blockchain technology. It emphasizes user ownership, digital assets, and peer-to-peer interactions without traditional intermediaries."
+        },
+        "q2": {
+            "question": "How can Web3 benefit our business?",
+            "answer": "Transitioning to Web3 can provide your business with enhanced user trust through transparency, security, and decentralized frameworks."
+        },
+        "q3": {
+            "question": "How does your blockchain development process work?",
+            "answer": "Our blockchain development process consists of four main phases: Needs analysis and planning, technical design and architectural decisions, development and testing process, and finally deployment and maintenance phase. We maintain close communication with our clients at every stage to ensure the project progresses according to its objectives. We place special emphasis on security and scalability issues."
+        },
+        "q4": {
+            "question": "What services do you offer for NFT projects?",
+            "answer": "We provide end-to-end solutions for your NFT projects. These services include smart contract development, metadata management, IPFS integration, minting website creation, marketplace integration, and technical consulting. Additionally, we help you plan secondary market strategies for your NFTs and set up royalty systems. We provide integration with popular NFT marketplaces such as OpenSea and Rarible for your projects."
+        },
+        "q5": {
+            "question": "What does smart contract security audit cover?",
+            "answer": "Our smart contract security audit is a comprehensive process. We perform manual code review, automated security scans, gas optimization, tests against known vulnerabilities, and stress testing. We specifically test your contracts against re-entrancy attacks, integer overflow/underflow, front-running, and other common security issues. We provide a detailed report of the audit and recommendations for resolving any identified issues."
+        }
+    },
+    "about": {
+        "title": "About Us",
+        "highlight": "As BlockForgeSolutions, we offer innovative solutions in the Web3 world.",
+        "description": "Since 2020, we have been developing pioneering projects in blockchain technologies, guiding businesses and individuals in their digital transformation.",
+        "stats": {
+            "projects": "Successful Projects",
+            "clients": "Happy Clients",
+            "experience": "Years Experience"
+        }
+    },
+    "contact": {
+        "title": "Contact Us",
+        "name": "Your Name",
+        "email": "Your Email",
+        "message": "Tell us about your project...",
+        "submit": "Send"
+    },
+    "footer": {
+        "description": "Comprehensive software training and innovative projects for your success in the decentralized world!",
+        "legal": {
+            "title": "Legal",
+            "terms": "Terms of Use",
+            "privacy": "Privacy Policy"
+        },
+        "contact": {
+            "title": "Contact",
+            "email": "info@blockforgesolutions.com"
+        },
+        "copyright": "© 2024 BlockForgeSolutions. All rights reserved.",
+        "blockforge": {
+            "title": "BLOCKFORGE",
+            "about": "About us",
+            "services": "Services",
+            "contact": "Contact us"
+        }
+    }
+} 

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+    <style>
+        .blockchain-element { fill: #6C63FF; }
+        .connection { stroke: #4ECDC4; stroke-width: 2; }
+    </style>
+    <g class="blockchain-elements">
+        <rect class="blockchain-element" x="100" y="100" width="60" height="60" rx="10"/>
+        <rect class="blockchain-element" x="220" y="100" width="60" height="60" rx="10"/>
+        <rect class="blockchain-element" x="340" y="100" width="60" height="60" rx="10"/>
+        <rect class="blockchain-element" x="160" y="200" width="60" height="60" rx="10"/>
+        <rect class="blockchain-element" x="280" y="200" width="60" height="60" rx="10"/>
+        <rect class="blockchain-element" x="100" y="300" width="60" height="60" rx="10"/>
+        <rect class="blockchain-element" x="220" y="300" width="60" height="60" rx="10"/>
+        <rect class="blockchain-element" x="340" y="300" width="60" height="60" rx="10"/>
+    </g>
+    <g class="connections">
+        <line class="connection" x1="160" y1="130" x2="220" y2="130"/>
+        <line class="connection" x1="280" y1="130" x2="340" y2="130"/>
+        <line class="connection" x1="130" y1="160" x2="160" y2="200"/>
+        <line class="connection" x1="250" y1="160" x2="220" y2="200"/>
+        <line class="connection" x1="370" y1="160" x2="340" y2="200"/>
+        <line class="connection" x1="160" y1="260" x2="130" y2="300"/>
+        <line class="connection" x1="220" y1="260" x2="250" y2="300"/>
+        <line class="connection" x1="340" y1="260" x2="370" y2="300"/>
+    </g>
+</svg> 
